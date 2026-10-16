@@ -1,5 +1,14 @@
 # FlowDesk Technologies: Customer Retention & Churn Analysis
 An end-to-end data analysis of a SaaS company whose revenue is growing fast while its customer base is not. Using **SQL, Excel and PowerPoint**, we investigate why customers leave and what management should do about it.
+## Project Highlights
+
+* **10,000 customers analyzed** across seven interconnected datasets covering three fiscal years.
+* **37.9% overall customer churn** identified, highlighting a significant customer retention challenge.
+* **76.7% churn in the Affiliate channel** revealed a major retention concern associated with discount-driven customer acquisition.
+* **71.9% churn among customers with slow or incomplete onboarding** highlighted an opportunity to improve onboarding effectiveness.
+* **Actionable business recommendations** developed to optimize discount strategies, improve onboarding, establish support SLAs, and strengthen marketing attribution.
+* **PostgreSQL, Excel, and PowerPoint** used to clean data, analyze business performance, uncover churn patterns, and communicate insights for data-driven decision-making.
+
 Business Problem:
 FlowDesk's billing revenue nearly tripled in two years, but new signups stayed flat and more than a third of all customers ever signed have cancelled. Three teams each blamed someone else:
 | Team | Hypothesis |
