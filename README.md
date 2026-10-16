@@ -9,12 +9,14 @@ An end-to-end data analysis of a SaaS company whose revenue is growing fast whil
 * **Actionable business recommendations** developed to optimize discount strategies, improve onboarding, establish support SLAs, and strengthen marketing attribution.
 * **PostgreSQL, Excel, and PowerPoint** used to clean data, analyze business performance, uncover churn patterns, and communicate insights for data-driven decision-making.
 
-Business Problem:
-FlowDesk's billing revenue nearly tripled in two years, but new signups stayed flat and more than a third of all customers ever signed have cancelled. Three teams each blamed someone else:
-| Team | Hypothesis |
-| Marketing | Acquisition is performing well. Blame Customer Success and Product. |
+**Business Problem:** FlowDesk's billing revenue nearly tripled in two years, but new signups stayed flat and more than a third of all customers ever signed have cancelled. Three teams each blamed someone else:
+
+| Team             | Hypothesis                                                                |
+| ---------------- | ------------------------------------------------------------------------- |
+| Marketing        | Acquisition is performing well. Blame Customer Success and Product.       |
 | Customer Success | Marketing brings poor-fit customers, and onboarding fails to retain them. |
-| Product | Bugs and slow integration fixes are driving churn. |
+| Product          | Bugs and slow integration fixes are driving churn.                        |
+
 
 **Goal:** use the data to test each hypothesis, find the real churn drivers, and recommend actions.
 
